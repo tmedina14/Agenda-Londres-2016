@@ -1,11 +1,10 @@
-# PhoneGap-Test
+# Agenda Londres 2016
 
 Informàtica 1r batxillerat 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
 
 Marta Pueyo Muñido
-
 Laura Moreno Pozo
 
 L'arxiu index inclou una estructura bàsica per crear una 
