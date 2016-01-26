@@ -4,8 +4,8 @@ Informàtica 1r batxillerat 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
 
-Marta Pueyo Muñido
-Laura Moreno Pozo
+Teresa Medina Megias
+Carla Arribas Rodrigez
 
 L'arxiu index inclou una estructura bàsica per crear una 
 aplicació mòbil senzilla i dues opcions per crear transicions
